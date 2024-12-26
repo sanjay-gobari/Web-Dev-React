@@ -1,0 +1,19 @@
+
+.nav-items{
+    border: 1px solid transparent;
+}
+.nav-items:hover{
+    border: 1px solid gray;
+}
+.nav-item-active{
+    background-color: white;
+    color:black;
+}
+.nav-item-active:hover{ border: 1px solid transparent;}
+
+.logohead{
+    cursor: pointer;
+    font-family: "Tangerine", cursive;
+    font-weight: bold;
+
+}
